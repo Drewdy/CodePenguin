@@ -1,3 +1,3 @@
 # HTML-Penguin
 
-Work in progress, landing page project.
+Work in progress, landing page project. Last updated 4/8/2022.
